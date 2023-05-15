@@ -17,14 +17,9 @@ body {
 
 /* Container */
 .container {
-  min-width: 100px;
   max-width: 1250px;
   margin: auto;
   padding: 0 20px;
-}
-
-.aspectwrapper {
-    display: inline-block;
 }
 
 /* Header */
