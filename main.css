@@ -18,10 +18,11 @@ body {
 /* Container */
 .container {
   width: 1200px;
-  margin: 0px auto;
+  margin: 0 auto;
 }
 
 .container iframe {
+    position: absolute;
     top: 0px;
     left: 0px;
     width: 100%;
