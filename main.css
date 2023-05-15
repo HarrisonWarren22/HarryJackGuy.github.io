@@ -17,9 +17,14 @@ body {
 
 /* Container */
 .container {
-  width: 1200px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 0 20px;
+}
+
+.container iframe {
+    width: 1250;
+    height: 600;
 }
 
 /* Header */
