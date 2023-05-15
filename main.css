@@ -18,8 +18,7 @@ body {
 /* Container */
 .container {
   width: 1200px;
-  margin: 0 auto;
-  padding: 0 20px;
+  margin: 0px auto;
 }
 
 .container iframe {
