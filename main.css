@@ -22,13 +22,9 @@ body {
   padding: 0 20px;
 }
 
-.container-v {
-  max-width: 1250px;
-  margin: auto;
-  padding: 0 20px;
-  display: inline-block;
+.aspectwrapper {
+    display: inline-block;
 }
-
 
 /* Header */
 header {
