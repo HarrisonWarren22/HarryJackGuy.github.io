@@ -28,10 +28,6 @@ body {
   padding: 0 20px;
 }
 
-.container iframe {
-    width: 1250;
-    height: 600;
-}
 
 /* Header */
 header {
