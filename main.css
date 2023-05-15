@@ -18,10 +18,12 @@ body {
 /* Container */
 .container {
   max-width: 1250px;
-  resize: both;
-  overflow: auto;
   margin: auto;
   padding: 0 20px;
+}
+
+.container iframe {
+    display: inline-block;
 }
 
 /* Header */
