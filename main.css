@@ -22,9 +22,10 @@ body {
   padding: 0 20px;
 }
 
-.container iframe {
-    width: 1250;
-    height: 600;
+.container-v {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
 }
 
 /* Header */
