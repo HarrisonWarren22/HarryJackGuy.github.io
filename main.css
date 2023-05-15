@@ -17,7 +17,8 @@ body {
 
 /* Container */
 .container {
-  max-width: 1250px;
+  width: 100vw;
+  height: 100vh;
   margin: auto;
   padding: 0 20px;
 }
